@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://demo.qcdn.network/hx/latestrelease/hsvpn.ipa</string>
+					<string>https://github.com/Hokila/testOTA/blob/master/latestrelease/hsvpn.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://demo.qcdn.network/hx/latestrelease/Icon-App-40x40@1x.png</string>
+					<string>https://github.com/Hokila/testOTA/blob/master/latestrelease/Icon-App-40x40@1x.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://demo.qcdn.network/hx/latestrelease/ItunesArtwork@2x.png</string>
+					<string>https://github.com/Hokila/testOTA/blob/master/latestrelease/ItunesArtwork@2x.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
